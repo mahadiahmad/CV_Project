@@ -1,0 +1,133 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: antiquewhite;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+}
+
+.container{
+    background-color: rgb(32, 75, 75);
+    max-width: 1000px;
+    margin:0 auto;
+    padding: 5px;
+
+}
+
+.pic{
+    
+    width: 150px;
+    border-radius: 50%;
+    border: 3px solid rgb(255, 255, 255);
+    float: left;
+    
+}
+
+.header_bio{
+    float: left;
+    padding: 10px;
+}
+.contact{
+    float: right;
+    text-decoration: none;
+    color: black;
+    
+}
+a{
+    color: aliceblue;
+}
+.contact a:hover{
+    text-decoration: underline;
+    color: rgb(243, 52, 52);
+}
+
+.clear{
+    clear: both;
+}
+hr{
+    margin: 5px;
+    border: 3px solid rgb(255, 255, 255);
+    border-bottom: none;
+}
+
+#persoanl_info{
+    
+}
+
+.content{
+   
+   
+}
+
+.left_div{
+    width: 30%;
+    float: left;
+}
+
+.right_div{
+    width: 70%;
+    float: left;
+}
+.div_clear{
+    clear: both;
+}
+
+#work_experience{
+
+}
+
+.clear3{
+    clear: both;
+}
+
+.educationdiv{
+    educationdiv{
+        display: fl;
+
+    }
+}
+
+.education{
+    width: 30%;
+    float: left;
+}
+
+.high_school{
+    width: 35%;
+    float: left;
+}
+
+.collage{
+    width: 35%;
+    float: left;
+}
+
+.clear3{
+    clear: both;
+}
+.fotter{
+    background-color: black;
+    max-width:1000px;
+    height: 80px;
+    padding: 10px;
+    text-align: center;
+}
+
+.fotter a{
+    text-decoration: none;
+    padding: 20px;
+    border-right: 1px solid white;
+}
+
+
+.fotter p{
+    text-align: center;
+    margin-top: 40px;
+    
+}
+
+
+
